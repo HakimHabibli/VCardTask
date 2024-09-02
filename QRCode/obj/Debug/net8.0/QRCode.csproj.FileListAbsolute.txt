@@ -102,3 +102,4 @@ C:\Users\77upt\Desktop\TaskQRCODE\QRCode\QRCode\obj\Debug\net8.0\refint\QRCode.d
 C:\Users\77upt\Desktop\TaskQRCODE\QRCode\QRCode\obj\Debug\net8.0\QRCode.pdb
 C:\Users\77upt\Desktop\TaskQRCODE\QRCode\QRCode\obj\Debug\net8.0\QRCode.genruntimeconfig.cache
 C:\Users\77upt\Desktop\TaskQRCODE\QRCode\QRCode\obj\Debug\net8.0\ref\QRCode.dll
+C:\Users\77upt\Desktop\TaskQRCODE\QRCode\QRCode\obj\Debug\net8.0\QRCode.sourcelink.json

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\models\\qrcodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\views\\qrcode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\models\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\models\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|c:\\users\\77upt\\desktop\\taskqrcode\\qrcode\\qrcode\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F1A085-6825-4B2A-B4B3-1FC6F0612FA5}|QRCode\\QRCode.csproj|solutionrelative:qrcode\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Views\\QRCode\\Index.cshtml",
-              "RelativeDocumentMoniker": "QRCode\\Views\\QRCode\\Index.cshtml",
-              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Views\\QRCode\\Index.cshtml",
-              "RelativeToolTip": "QRCode\\Views\\QRCode\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-24T16:41:45.818Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -59,41 +50,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "QRCode\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "QRCode\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T16:27:44.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QRCodeController.cs",
-              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\QRCodeController.cs",
-              "RelativeDocumentMoniker": "QRCode\\Controllers\\QRCodeController.cs",
-              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\QRCodeController.cs",
-              "RelativeToolTip": "QRCode\\Controllers\\QRCodeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T16:19:42.894Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Views\\QRCode\\Index.cshtml",
+              "RelativeDocumentMoniker": "QRCode\\Views\\QRCode\\Index.cshtml",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Views\\QRCode\\Index.cshtml",
+              "RelativeToolTip": "QRCode\\Views\\QRCode\\Index.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:05:39.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QRCodeModel.cs",
               "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\QRCodeModel.cs",
               "RelativeDocumentMoniker": "QRCode\\Models\\QRCodeModel.cs",
               "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\QRCodeModel.cs",
               "RelativeToolTip": "QRCode\\Models\\QRCodeModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T16:10:19.909Z",
+              "WhenOpened": "2024-08-29T17:07:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QRCode\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QRCode\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:05:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payload.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\Payload.cs",
+              "RelativeDocumentMoniker": "QRCode\\Models\\Payload.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Models\\Payload.cs",
+              "RelativeToolTip": "QRCode\\Models\\Payload.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:05:27.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QRCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\QRCodeController.cs",
+              "RelativeDocumentMoniker": "QRCode\\Controllers\\QRCodeController.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\TaskQRCODE\\QRCode\\QRCode\\Controllers\\QRCodeController.cs",
+              "RelativeToolTip": "QRCode\\Controllers\\QRCodeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:05:20.487Z",
               "EditorCaption": ""
             }
           ]

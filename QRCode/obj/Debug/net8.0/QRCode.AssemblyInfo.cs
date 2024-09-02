@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QRCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03bfb9347ceff2f45224e4c23f95a9e551d57998")]
 [assembly: System.Reflection.AssemblyProductAttribute("QRCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QRCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
